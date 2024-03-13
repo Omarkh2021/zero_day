@@ -1,4 +1,0 @@
-Vagrant
-
-    Vagrant rocks !!
-
